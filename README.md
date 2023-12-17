@@ -9,7 +9,7 @@ Actualmente, estoy trabajando en [Xirect](https://www.xirect.com/es/) de manera 
 Tecnologias que estoy usando actualmente: React y Typescript.
 
 ### ⚒ Conjunto de tecnologías:
-Aquellas con las que me sentí cómodo al menos una vez.
+Aquellas con las que me sentí cómoda al menos una vez.
 <p>
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&amp;logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&amp;logoColor=white" alt="CSS">
