@@ -2,7 +2,7 @@
 
 👋 Hola, soy Paula, un desarrolladora. Me gradué 🎓 con una tecnicatura en análisis y desarrollo de software 👨🏻‍💻.   
 Tengo interés en Desarrollo Móvil y Desarrollo Web.
-Recientemente, he estado aprendiendo e incursionando en haciendo proyectos que utilizan Flutter.
+Recientemente, he estado aprendiendo y haciendo proyectos que utilizan Flutter.
 Puedes consultar alguno de ellos que tenga hecho [aquí](https://github.com/PereyraPaula?tab=repositories) 👇  
 
 Actualmente, estoy trabajando en [Xirect](https://www.xirect.com/es/) de manera remota a tiempo parcial, como desarrolla front-end junior.
