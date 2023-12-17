@@ -5,7 +5,8 @@ Tengo interés en Desarrollo Móvil y Desarrollo Web.
 Recientemente, he estado aprendiendo y haciendo proyectos que utilizan Flutter.
 Puedes consultar alguno de ellos que tenga hecho [aquí](https://github.com/PereyraPaula?tab=repositories) 👇  
 
-Actualmente, estoy trabajando en [Xirect](https://www.xirect.com/es/) de manera remota a tiempo parcial, como desarrolla front-end junior.
+Actualmente, estoy trabajando en [Xirect](https://www.xirect.com/es/) de manera remota a tiempo parcial, como desarrolla front-end junior.  
+Tecnologias que estoy usando actualmente: React y Typescript.
 
 ### ⚒ Conjunto de tecnologías:
 Aquellas con las que me sentí cómodo al menos una vez.
@@ -14,6 +15,7 @@ Aquellas con las que me sentí cómodo al menos una vez.
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&amp;logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&amp;logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&amp;logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&amp;logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress">
 </p>
