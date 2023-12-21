@@ -28,3 +28,5 @@ Aquellas con las que me sentí cómoda al menos una vez.
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 </p>
 
+- Mi Gist: https://gist.github.com/PereyraPaula
+
