@@ -29,4 +29,5 @@ Aquellas con las que me sentí cómoda al menos una vez.
 </p>
 
 - Mi Gist: https://gist.github.com/PereyraPaula
+- Dev.to (posts): https://dev.to/specimen4701)https://dev.to/specimen4701
 
