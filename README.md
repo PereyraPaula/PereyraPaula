@@ -3,10 +3,9 @@
 👋 Hola, soy Paula, un desarrolladora. Me gradué 🎓 con una tecnicatura en análisis y desarrollo de software 👨🏻‍💻.   
 Tengo interés en Desarrollo Móvil y Desarrollo Web.
 Recientemente, he estado aprendiendo y haciendo proyectos que utilizan Flutter o Kotlin.
-Puedes consultar alguno si están subidos [aquí](https://github.com/PereyraPaula?tab=repositories) 👇  
 
 Actualmente, estoy trabajando en [Xirect](https://www.xirect.com/es/) de manera remota a tiempo parcial, como desarrolla front-end junior.  
-Tecnologias que estoy usando actualmente: React y Typescript.
+Tecnologias que estoy usando actualmente: React o Vue (depende el proyecto) y Typescript.
 
 ### ⚒ Conjunto de tecnologías:
 Aquellas con las que me sentí cómoda al menos una vez.
@@ -15,9 +14,9 @@ Aquellas con las que me sentí cómoda al menos una vez.
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&amp;logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&amp;logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&amp;logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&amp;logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 <p>
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP">
@@ -29,5 +28,4 @@ Aquellas con las que me sentí cómoda al menos una vez.
 </p>
 
 - Mi Gist: https://gist.github.com/PereyraPaula
-- Dev.to (posts): https://dev.to/specimen4701
 
