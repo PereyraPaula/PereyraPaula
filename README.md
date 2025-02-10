@@ -3,7 +3,7 @@
 👋 Hola, soy Paula, un desarrolladora. Me gradué 🎓 con una tecnicatura en análisis y desarrollo de software 👨🏻‍💻.  
 Trabajo como desarrolladora web, pero como me interesa el mundo del desarrollo movil, recientemente he estado aprendiendo y haciendo proyectos que utilizan Flutter o Kotlin.
 
-Actualmente, estoy trabajando en [Xirect](https://www.xirect.com/es/) de manera remota a tiempo parcial, como desarrolla front-end junior.  
+Actualmente, estoy trabajando en [Xirect](https://www.xirect.com/es/) de manera remota a tiempo parcial, como desarrolla front-end.  
 Tecnologias que estoy usando actualmente: Vue - Nuxt 2 - y React (depende el proyecto) y Typescript.
 
 ### ⚒ Conjunto de tecnologías:
