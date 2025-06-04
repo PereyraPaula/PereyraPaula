@@ -1,19 +1,15 @@
 <h1 align="center">Hola 👋, Soy Paula Pereyra</h1>
-<h3 align="center">Desarrollando experiencias digitales que hacen que hasta los bugs se sientan cómodos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pereyrapaula&label=Profile%20views&color=0e75b6&style=flat" alt="pereyrapaula" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [Xirect](https://www.xirect.com/es/)
+- 🔭 Actualmente estoy trabajando en [Xirect](https://www.xirect.com/es/).
 
-- 🌱 Actualmente estoy aprendiendo **en desarrollo mobile (Kotlin, Flutter) y en web (react de manera más avanzada)**
+- 🌱 Actualmente estoy aprendiendo **en desarrollo mobile (Kotlin, Flutter) y en web**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [mi portfolio](https://pereyrapaula.netlify.app/)
 
-- 📝 Escribo artículos regularmente sobre lo que voy aprendiendo aqui: [dev.to](dev.to/specimen4701)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/specimen4701" target="blank"><img align="center" src="https://www.svgrepo.com/download/349334/dev-to.svg" alt="specimen4701" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/paula-pereyra-4b3127327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/paula-pereyra-4b3127327" height="30" width="40" /></a>
 </p>
 
