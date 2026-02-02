@@ -16,7 +16,7 @@ Me gusta crear soluciones prácticas, aprender tecnologías nuevas y mejorar con
 
 🛠️ **Tecnologías con las que me siento más comoda:** <br/>
 
-[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=html,css,js,vuejs,typescript,php,wordpress,linux,docker)](https://github.com/thuongtruong109/icoziv) <br/>
+[![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=html,css,js,vuejs,typescript,php,wordpress,linux,docker,flutter)](https://github.com/thuongtruong109/icoziv) <br/>
 
 ###### Con Docker: en realidad uso Podman, pero el uso es casi idéntico.
 
