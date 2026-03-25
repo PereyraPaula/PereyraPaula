@@ -1,6 +1,6 @@
 ### Hola! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-Soy [**Paula Pereyra**](https://pereyrapaula.netlify.app/), una programadora fullstack con base en Argentina.
+Soy [**Paula Pereyra**](https://pereyrapaula.com.ar/), una programadora fullstack con base en Argentina.
 Cuento con más de 3 años de experiencia en desarrollo web, combinando trabajo en empresa y proyectos freelance.
 
 Me gusta crear soluciones prácticas, aprender tecnologías nuevas y mejorar constantemente mis habilidades para aplicarlas en proyectos reales.
