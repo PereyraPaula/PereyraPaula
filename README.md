@@ -12,6 +12,8 @@ Me gusta crear soluciones prácticas, aprender tecnologías nuevas y mejorar con
 - [simple-auth-login](https://github.com/PereyraPaula/simple-auth-login) - Sistema de autenticación simple para usar como base, escrito usando NodeJS.
 - [Web templates](https://ko-fi.com/paulapereyra/shop) - Colección de templates de páginas web desarrollados por mí. Ideales para proyectos personales, freelancers o pequeños negocios.
 
+- [Ruta Dev](https://pereyrapaula.github.io/rutadev/) - Blog para poder guardar las notas de lo que aprendo.
+
 ---
 
 🛠️ **Tecnologías con las que me siento más comoda:** <br/>
