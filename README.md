@@ -1,7 +1,7 @@
 ### Hola! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
 Soy [**Paula Pereyra**](https://pereyrapaula.com.ar/), una programadora fullstack con base en Argentina.
-Cuento con más de 3 años de experiencia en desarrollo web, combinando trabajo en empresa y proyectos freelance.
+Cuento con más de 4 años de experiencia en desarrollo web, combinando trabajo en empresa y proyectos freelance.
 
 Me gusta crear soluciones prácticas, aprender tecnologías nuevas y mejorar constantemente mis habilidades para aplicarlas en proyectos reales.
 
@@ -33,4 +33,4 @@ Me gusta crear soluciones prácticas, aprender tecnologías nuevas y mejorar con
 
 **Cómo contactarme:** <br />
 
-[![LinkedIn](https://i.icoziv.workers.dev/icons?i=linkedIn)]([https://github.com/thuongtruong109/icoziv](https://linkedin.com/in/www.linkedin.com/in/paula-pereyra-4b3127327))
+[![LinkedIn](https://i.icoziv.workers.dev/icons?i=linkedIn)](https://www.linkedin.com/in/paula-pereyra-4b3127327)
